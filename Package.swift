@@ -23,7 +23,7 @@ let package = Package(
                 .process("Resources/Satoshi-Medium.otf"),
                 
                 // Include the asset catalog
-                .process("Resources/WeatherConnectSDK.xcassets")
+                .process("Resources/WeatherCore.xcassets")
             ]),
         .testTarget(
             name: "WeatherConnectTests",
