@@ -17,6 +17,7 @@ The **WeatherConnect SDK** allows developers to seamlessly integrate weather inf
 ## Requirements
 - **iOS**: 16.0+
 - **Swift**: 5.7+
+- **Xcode**: 16.2
 
 ---
 
